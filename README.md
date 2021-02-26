@@ -1,0 +1,1 @@
+O projeto de cadastro de séries foi feito no curso disponibilizado pela [Digital Innovation One](https://digitalinnovation.one/) para a formação do Bootcamp, LocalizaLabs .NET Developer.
